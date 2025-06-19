@@ -1,34 +1,76 @@
-<table>
-<tr>
-<td><img alt="badge" width="150" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"></td>
-<td><img alt="badge" width="150" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkNmZycXowMTgxMDltaGFleGpmczRwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"></td>
-<td><img alt="badge" width="150" align="center" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkODlvaTAwMDE3MDlpZjdsdWxhNHV5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"></td>
-<td><img alt="badge" width="150" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75"></td>
-</tr>
-</table>
-<h1 align="center">Hi 👋, I'm Aaisha Perveen</h1>
-<h3 align="center">A passionate learner!!</h3>
-<img align="right" alt="coding_gif" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<h1 align="center">Hi there 👋, I'm Aaisha Perveen</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | MERN | React | Cloud Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaisha26&label=Profile%20views&color=0e75b6&style=flat" alt="aaisha26" /> </p>
-
-- 🌱 I’m currently learning **Meta Front-End Development**
-
-- 📫 How to reach me **aaishaperveenkvs@gmail.com**
-
-- ⚡ Fun fact **Quite humorous i guess...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aaisha-perveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaisha-perveen-39412b168" height="30" width="40" /></a>
-<a href="https://instagram.com/aaisha_perveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaisha_perveen" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:aaishaperveenkvs@gmail.com"><img src="https://img.shields.io/badge/Gmail-aaishaperveenkvs%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aaisha-perveen/"><img src="https://img.shields.io/badge/LinkedIn-Aaisha%20Perveen-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/aaisha26"><img src="https://img.shields.io/badge/GitHub-aaisha26-black?style=for-the-badge&logo=github" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaisha26&show_icons=true&locale=en&layout=compact" alt="aaisha26" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaisha26&show_icons=true&locale=en" alt="aaisha26" /></p>
+<div align="left" style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaisha26&" alt="aaisha26" /></p>
+  - 💻 Currently pursuing **B.Tech in Computer Science** from BCET Durgapur  
+  - 🌱 Currently exploring **Cloud** and **Full Stack Web Development**  
+  - 💬 Ask me about anything related to **React**, **Node.js**, **Testing**, and **Python**  
+  - ⚡ Fun fact: I love blending **design** and **logic** to build seamless user experiences!
+
+  
+  <img align="right" alt="coding_gif" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"></div>
+</div>
+
+
+
+### 🛠️ Skills & Tools
+
+#### 👩‍💻 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🌐 Web & Frameworks  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🧪 Testing & Tools  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+#### 🗄️ Database & Cloud  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/-AWS%20Lambda-F90?style=for-the-badge&logo=aws-lambda&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaisha26&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaisha26&theme=radical" width="45%"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaisha-perveen/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:aaishaperveenkvs@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Let's build something great together! ✨</p>
