@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Aaisha Perveen</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | MERN | React | Cloud Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Developer | Automation Tester | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:aaishaperveenkvs@gmail.com"><img src="https://img.shields.io/badge/Gmail-aaishaperveenkvs%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -14,9 +14,9 @@
 <div align="left" style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
 
-  - 💻 Currently pursuing **B.Tech in Computer Science** from BCET Durgapur  
-  - 🌱 Currently exploring **Cloud** and **Full Stack Web Development**  
-  - 💬 Ask me about anything related to **React**, **Node.js**, **Testing**, and **Python**  
+  - 💻 Graduated in **B.Tech in Computer Science** from BCET Durgapur  
+  - 🌱 Currently exploring **Testing** and **Full Stack Web Development**  
+  - 💬 Ask me about anything related to **Dev**, **Testing**, and **Python**  
   - ⚡ Fun fact: I love blending **design** and **logic** to build seamless user experiences!
 
   
